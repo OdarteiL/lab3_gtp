@@ -1,0 +1,11 @@
+2025-04-15 08:44:02 - ❌ Email Error: (421, b'Service not available')
+2025-04-15 08:44:02 - ALERT SENT
+⚠️ CPU usage is high: 41.4% (Threshold: 10%)
+⚠️ RAM usage is high: 88.5% (Threshold: 10%)
+
+
+2025-04-15 08:49:09 - ALERT SENT
+⚠️ CPU usage is high: 45.6% (Threshold: 10%)
+⚠️ RAM usage is high: 85.9% (Threshold: 10%)
+
+
